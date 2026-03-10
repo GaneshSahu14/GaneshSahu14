@@ -227,14 +227,17 @@ me.say_hello()
 </div>
 
 ---
+## 🐍 Contribution Graph
 
-## 🏆 Trophies
+<picture>
 
-<div align="center">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GaneshSahu14/GaneshSahu14/output/github-contribution-grid-snake-dark.svg">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GaneshSahu14&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GaneshSahu14/GaneshSahu14/output/github-contribution-grid-snake.svg">
 
-</div>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GaneshSahu14/GaneshSahu14/output/github-contribution-grid-snake.svg">
+
+</picture>
 
 ---
 
